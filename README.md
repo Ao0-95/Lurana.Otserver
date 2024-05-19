@@ -1,2 +1,2 @@
-# Wicked.Otserver
-Wicked Otserver Map 10.98 Project
+# Lurana.Otserver
+Lurana Otserver Map 10.98 Project
