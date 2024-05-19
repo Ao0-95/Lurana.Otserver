@@ -1,2 +1,2 @@
 # Wicked.Otserver
-Wicked Otserver Map 10.98
+Wicked Otserver Map 10.98 Project
